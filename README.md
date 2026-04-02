@@ -1,1 +1,1 @@
-# trading_signal_
+# trading_signal
